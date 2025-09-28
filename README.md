@@ -1,4 +1,4 @@
-# 🤖 MCP Server: Selenium + Playwright QA Automation
+# 🤖 MCP (Model Context Protocol) Server: Selenium + Playwright QA Automation
 
 <div align="center">
 
