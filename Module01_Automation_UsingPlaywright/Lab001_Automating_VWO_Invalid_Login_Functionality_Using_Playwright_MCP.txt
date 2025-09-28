@@ -1,0 +1,4 @@
+Prompts:
+
+- Can you open the [app.vwo.com] (http://app.vwo.com/) and add a random email, password in the text box and click on the submit button and verify
+the message of error after sometime using the Playwright mcp.

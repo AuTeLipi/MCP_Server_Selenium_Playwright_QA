@@ -1,0 +1,6 @@
+Prompt:
+
+Can you open the http://app.vwo.com, make the headless false and add a random email, password in the text box and
+click on the submit button and verify the message of error
+after sometime using the Selenium mcp and take
+screenshot and give me the pythion and java code also.

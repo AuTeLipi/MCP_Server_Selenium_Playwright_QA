@@ -1,0 +1,29 @@
+Prompt:
+
+Problem #1
+Now I want you simulate the signup process with direct
+click on the button create my account and verify the error
+for the same URL =
+@https://www.idrive360.com/enterprise/signup
+Use Selenium MCP. take screenshot in the end close the
+browser, make sure that you put the all details even indian
+phone number from dropdown (+91)
+
+
+Problem #2
+I want you to open the same URL and select from the phone number, select the Indian +91 code
+and enter this number. 9876543210, click on the create my account and take screenshot and
+headless = false
+
+I want you to open the same URL and 
+give first and last names, you were entering last name in the first name field only double check it, 
+enter random emailid and password, 
+enter random Company name,
+for phone number, select the Indian +91 code from dropdown
+and enter this number. 9876543210, click on the create my account and take screenshot and
+headless = false and close the browser at the end
+
+Problem 3
+Read the data from the excel file and use it in the signup and click on the create my account
+URL =@https://www.idrive360.com/enterprise/signup click on the create my account and take
+screenshot and headless = false
