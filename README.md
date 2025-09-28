@@ -1,4 +1,4 @@
-# 🤖 MCP (Model Context Protocol) Server: Selenium + Playwright QA Automation
+# 🤖 MCP Server: Selenium + Playwright QA Automation
 
 <div align="center">
 
@@ -18,8 +18,7 @@
 
 
 ## 🌐 **Project Overview**
-
-This project demonstrates how to orchestrate web-testing MCP servers (Selenium MCP and Playwright MCP) from a unified QA workspace, enabling AI agents to drive real browsers through natural language commands in modern IDEs like **Cursor/VS Code** or AI clients like **Claude Desktop** and **Goose**.
+This project demonstrates how to orchestrate web-testing MCP (Model Context Protocol) servers (Selenium MCP and Playwright MCP) from a unified QA workspace, enabling AI agents to drive real browsers through natural language commands in modern IDEs like **Cursor/VS Code** or AI clients like **Claude Desktop** and **Goose**.
 
 **Why MCP for QA?**
 - 🛠️ **Standardized Interface**: Consistent API for AI agents across different automation frameworks
