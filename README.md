@@ -1,6 +1,6 @@
-# 🤖 MCP Server: Selenium + Playwright QA Automation
-
 <div align="center">
+
+# 🤖 MCP Server: Selenium + Playwright QA Automation
 
 ### *Unified Web Testing MCP Servers for AI-Driven Browser Automation*
 
