@@ -33,6 +33,12 @@ This project demonstrates how to orchestrate web-testing MCP (Model Context Prot
 
 Gone are the days of writing hundreds of lines of boilerplate automation code. **MCP QA Automation** represents the next evolution in software testing—where AI agents understand your testing intent and translate it into precise browser actions across multiple frameworks.
 
+<div align="center">
+  
+<img width="2360" height="2824" alt="Image" src="https://github.com/user-attachments/assets/f94052bd-ab4d-42fc-b491-e759831da266" />
+
+</div>
+
 ### 🌟 **What Makes Us Different?**
 
 Unlike traditional automation tools that require extensive coding knowledge, our MCP-integrated approach allows you to:
@@ -40,12 +46,6 @@ Unlike traditional automation tools that require extensive coding knowledge, our
 - **Instant Code Generation**: Watch AI transform your ideas into executable tests  
 - **Cross-Framework Harmony**: Seamlessly switch between Selenium and Playwright
 - **Visual Intelligence**: AI-powered element recognition and interaction
-
-<div align="center">
-  
-<img width="2360" height="2824" alt="Image" src="https://github.com/user-attachments/assets/f94052bd-ab4d-42fc-b491-e759831da266" />
-
-</div>
 
 ---
 
