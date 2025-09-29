@@ -41,6 +41,12 @@ Unlike traditional automation tools that require extensive coding knowledge, our
 - **Cross-Framework Harmony**: Seamlessly switch between Selenium and Playwright
 - **Visual Intelligence**: AI-powered element recognition and interaction
 
+<div align="center">
+  
+<img width="2360" height="2824" alt="Image" src="https://github.com/user-attachments/assets/f94052bd-ab4d-42fc-b491-e759831da266" />
+
+</div>
+
 ---
 
 ## 🎯 **Arsenal Features**
